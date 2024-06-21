@@ -8,5 +8,5 @@ int main(){
         sum+=input%10;
         input= input/10;
     }
-    cout << "The sum is:" << sum << endl;
+    cout  << sum << endl;
 }
